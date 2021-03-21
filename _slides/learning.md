@@ -27,4 +27,5 @@ slides:
   - learntomod
   - hackathon
   - hackerspace
+  - minecraft-education-edition
 ---

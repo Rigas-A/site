@@ -14,6 +14,7 @@ events:
   - digital-desk
   - windows95
   - winamp
+  - virtual-reality-headset
   - media-scrub
 ---
 
